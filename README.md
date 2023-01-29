@@ -82,7 +82,7 @@ home.html
             </div>
         </div>
         <div class="footer">
-            Copyright &#169; 2021 EduSoft Private Limited, Developed by Arpan Bardhan.
+            Copyright &#169; 2021 EduSoft Private Limited, Developed by  Sanjay.T.
         </div>
     </div>
 </body>
@@ -159,7 +159,7 @@ people.html
       </div>
         </div>
       <div class="footer">
-        Copyright &#169; 2021 EduSoft Private Limited, Developed by Arpan Bardhan.
+        Copyright &#169; 2021 EduSoft Private Limited, Developed by  Sanjay.T.
     </div>    
       </div>
     </div>
@@ -191,9 +191,9 @@ contactus.html
           <h1>Contact Us</h1>
           <img src="/static/img/con.png" alt="Logo" />
           <div class="contenttext">
-            Email: arpanbardhan@gmail.com
+            Email: mavishal2003@gmail.com
             <br>
-            Phone: +919876543210
+            Phone: +918667574195
             <br>
             Street:  1740 Crowfield Road
 
@@ -213,7 +213,7 @@ contactus.html
         </div>
       </div>
       <div class="footer">
-        Copyright &#169; 2021 EduSoft Private Limited, Developed by Arpan Bardhan.
+        Copyright &#169; 2021 EduSoft Private Limited, Developed by  Sanjay.T.
       </div>
     </div>
   </body>
@@ -341,7 +341,7 @@ products.html
           </div>        
       </div>
       <div class="footer">
-        Copyright &#169; 2021 EduSoft Private Limited, Developed by Arpan Bardhan.
+        Copyright &#169; 2021 EduSoft Private Limited, Developed by  Sanjay.T.
       </div>
     </div>
   </body>
